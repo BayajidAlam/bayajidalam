@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bayajid Alam Joyel</h1>
 <h3 align="center">A passionate web developer</h3>
 
-  <img width="1000" height="600" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+![Banner Image](https://media.licdn.com/dms/image/D4E16AQH4IEVixueSjA/profile-displaybackgroundimage-shrink_350_1400/0/1671209626144?e=1681344000&v=beta&t=qdJo_H46VNyUQkKlGqoGXEMHYbR-YZ1F2FRwrpPYQbg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayajidalam&label=Profile%20views&color=0e75b6&style=flat" alt="bayajidalam" /> </p>
 
