@@ -1,6 +1,8 @@
-<h1 align="center">Welcome to my profile</h1>
+<h1 align="center">Bayajid Alam Joyel</h1>
+<h3 align='center'>An enthusiastic MERN developer from Cumilla, Bangladesh</h3>
+<p align='center'>Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills.</p>
 
-![Banner Image](https://media.licdn.com/dms/image/D4E16AQH4IEVixueSjA/profile-displaybackgroundimage-shrink_350_1400/0/1671209626144?e=1681344000&v=beta&t=qdJo_H46VNyUQkKlGqoGXEMHYbR-YZ1F2FRwrpPYQbg)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayajidalam&label=Profile%20views&color=0e75b6&style=flat" alt="bayajidalam" /> </p>
