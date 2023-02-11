@@ -1,6 +1,6 @@
 <h1 align="center">Bayajid Alam Joyel</h1>
 <h3 align='center'>An enthusiastic MERN developer from Cumilla, Bangladesh</h3>
-<p align='center'>Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React, Node , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills.</p>
+<p align='center'>Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React, Node, Express, MongoDB. I seek out new knowledge and technology and actively develop my skills.</p>
 
 
 
