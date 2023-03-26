@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Redux,c++**
 
-- 👨‍💻 All of my projects are available at [https://bayajidalamjuyel.netlify.app](https://bayajidalamjuyel.netlify.app)
+- 👨‍💻 All of my projects are available at [https://bayajidalamjoyel.netlify.app/](https://bayajidalamjoyel.netlify.app/)
 
 - 💬 Ask me about **React,Js etc**
 
