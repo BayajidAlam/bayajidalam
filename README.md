@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/bayajid_alam" target="blank"><img src="https://img.shields.io/twitter/follow/bayajid_alam?logo=twitter&style=for-the-badge" alt="bayajid_alam" /></a> </p>
 
-- 🌱 I’m currently learning **Redux,c++**
+- 🌱 I’m currently learning **AWS,C++**
 
 - 👨‍💻 All of my projects are available at [https://bayajidalamjoyel.netlify.app/](https://bayajidalamjoyel.netlify.app/)
 
-- 💬 Ask me about **React,Js etc**
+- 💬 Ask me about **React, Next js, js ect**
 
 - 📫 How to reach me **bayajidalam2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bT7b2N2m__FylIumUnWv8Tw74dcr7akT/view?usp=share_link](https://drive.google.com/file/d/1bT7b2N2m__FylIumUnWv8Tw74dcr7akT/view?usp=share_link)
 
-- ⚡ Fun fact **I think I am so funny**
+- ⚡ Fun fact **Programmers' favorite song is 'Hello, World!'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
