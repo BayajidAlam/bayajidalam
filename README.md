@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bT7b2N2m__FylIumUnWv8Tw74dcr7akT/view?usp=share_link](https://drive.google.com/file/d/1bT7b2N2m__FylIumUnWv8Tw74dcr7akT/view?usp=share_link)
 
-- ⚡ Fun fact **Programmers' favorite song is 'Hello, World!'**
+- ⚡ Fun fact **My favorite song is 'Hello, World!'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
