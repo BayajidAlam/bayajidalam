@@ -20,9 +20,7 @@
 - 📫 How to reach me **bayajidalam2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bT7b2N2m__FylIumUnWv8Tw74dcr7akT/view?usp=share_link](https://drive.google.com/file/d/1bT7b2N2m__FylIumUnWv8Tw74dcr7akT/view?usp=share_link)
-
-- ⚡ Fun fact **My favorite song is 'Hello, World!'**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bayajid_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bayajid_alam" height="30" width="40" /></a>
