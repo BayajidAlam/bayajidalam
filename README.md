@@ -5,6 +5,8 @@
 ## Connect with me
 ![Portfolio Badge](https://img.shields.io/badge/Portfolio-%2337BEFF?style=for-the-badge&logo=%2337BEFF&link=https%3A%2F%2Fbayajidalamjoyel.netlify.app) &nbsp; ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbayajid-alam-joyel) &nbsp; ![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=bayajidalam2001%40gmail.com) &nbsp; ![Twitter Badge](https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fbayajid_alam) &nbsp; ![Dev.to Badge](https://img.shields.io/badge/Dev-%230A0A0A?style=for-the-badge&logo=devdotto&link=https%3A%2F%2Fdev.to%2Fbayajid_alam)
 
+### Problem solving
+![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=white&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FBayajid_Alam) &nbsp; ![HackerRank Badge](https://img.shields.io/badge/Hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&labelColor=white&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fbayajidalam2001)
 
 ### Cloud, Devops and Testing
 
