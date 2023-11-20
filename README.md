@@ -1,7 +1,6 @@
-<h1 align="center">Bayajid Alam Joyel</h1>
-<h3 align='center'>An enthusiastic MERN developer from Cumilla, Bangladesh</h3>
-<p align='left'>Welcome to my GitHub profile. I am an aspiring Full Stack Developer with strong knowledge of C, JavaScript, Typescript, ES6, Next Js, React, Node, Express, MongoDB, Mongoose, Resdux, SQL, Postgresql, and Prisma. My focus is to learn new technologies every day, solve real-life problems, and make a positive impact on the world.
-
+<h1 align="center">Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi"></h1> 
+<h3 align='center'> I am <span>Bayajid Alam Joyel</span> An enthusiastic Programmer from Cumilla, Bangladesh</h3>
+<p align='left'>Welcome to my GitHub profile. I am an aspiring Full Stack Developer with strong knowledge and a keen interest in software development and problem-solving. My focus is to learn new technologies every day, solve real-life problems, and make a positive impact on the world.</p>
 
 
 
