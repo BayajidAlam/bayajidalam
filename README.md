@@ -7,7 +7,7 @@
 
 ### Problem solving
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=%23FFA116&labelColor=white)](https://leetcode.com/Bayajid_Alam) &nbsp;
-![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=white&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FBayajid_Alam) &nbsp; ![HackerRank Badge](https://img.shields.io/badge/Hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&labelColor=white&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fbayajidalam2001)
+[![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=white)](https://codeforces.com/profile/Bayajid_Alam) &nbsp; [![HackerRank Badge](https://img.shields.io/badge/Hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&labelColor=white)](https://www.hackerrank.com/profile/bayajidalam2001)
 
 ### Cloud, Devops and Testing
 
