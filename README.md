@@ -23,7 +23,7 @@
 
 ### Cloud, Devops and Testing
 
-![Docker Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black) &nbsp; ![AWS Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black) &nbsp; ![Vitest Badge](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=white&labelColor=black) &nbsp; ![Cypress Badge](https://img.shields.io/badge/Cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black) &nbsp; ![Nginx Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=black)
+![Docker Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black) &nbsp; ![AWS Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black) &nbsp; ![Vitest Badge](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=white&labelColor=black) &nbsp; ![Nginx Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=black)
 
 
 
