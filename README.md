@@ -16,9 +16,18 @@
 | Judge           | Count           | Profile Links   | Rating(Max) | 
 |-----------------|-----------------|-----------------|-----------------|
 | Codeforces      | 250+            | [![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=white)](https://codeforces.com/profile/Bayajid_Alam)                    | 987 | 
-| LeetCode        | 100             |      [![LeetCode Badge](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=%23FFA116&labelColor=white)](https://leetcode.com/Bayajid_Alam)                                 |
+| LeetCode        | 100+             |      [![LeetCode Badge](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=%23FFA116&labelColor=white)](https://leetcode.com/Bayajid_Alam)                                 |
 | CodeChef        | 150+            |    [![CodeChef Badge](https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000)](https://www.codechef.com/users/bayajid)                               | 1210  | 
 | HackerRank      | 100              |    [![HackerRank Badge](https://img.shields.io/badge/Hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&labelColor=white)](https://www.hackerrank.com/profile/bayajidalam2001)                                                                          |
+
+### Projects
+
+| Name       | Description                                              |  Project Link             |
+|------------|----------------------------------------------------------|------------------|
+| GenTrandz  | GenTrandz is a scalable eCommerce platform built with Next.js and Node.js, supporting multiple roles (Customer, Seller, Admin etc).| [Github](https://github.com/BayajidAlam/GenTrandz)       |
+| SimplyDone  | SimplyDone is a scalable To-Do app built with React.js (frontend) and Node.js (backend). Both are containerized with Docker and deployed on AWS EC2 instances with an Application Load Balancer (ALB) for high availability and fault tolerance. Pulumi is used as IaC            | [Github](https://github.com/BayajidAlam/GenTrandz](https://github.com/BayajidAlam/simply-done))        |
+| R_Queue  | A distributed job queue system using Redis, designed to manage tasks across multiple worker nodes in a cloud environment. It supports job prioritization, failure handling, retries, result storage, and monitoring. | [Github](https://github.com/BayajidAlam/r-queue)        |
+
 
 
 ### Cloud, Devops and Testing
