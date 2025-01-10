@@ -25,7 +25,7 @@
 | Name       | Description                                              |  Project Link             |
 |------------|----------------------------------------------------------|------------------|
 | GenTrandz  | GenTrandz is a scalable eCommerce platform built with Next.js and Node.js, supporting multiple roles (Customer, Seller, Admin etc).| [Github](https://github.com/BayajidAlam/GenTrandz)       |
-| SimplyDone  | SimplyDone is a scalable To-Do app built with React.js (frontend) and Node.js (backend). Both are containerized with Docker and deployed on AWS EC2 instances with an Application Load Balancer (ALB) for high availability and fault tolerance. Pulumi is used as IaC            | [Github](https://github.com/BayajidAlam/GenTrandz](https://github.com/BayajidAlam/simply-done))        |
+| SimplyDone  | SimplyDone is a scalable To-Do app built with React.js (frontend) and Node.js (backend). Both are containerized with Docker and deployed on AWS EC2 instances with an Application Load Balancer (ALB) for high availability and fault tolerance. Pulumi is used as IaC            | [Github](https://github.com/BayajidAlam/simply-done)        |
 | R_Queue  | A distributed job queue system using Redis, designed to manage tasks across multiple worker nodes in a cloud environment. It supports job prioritization, failure handling, retries, result storage, and monitoring. | [Github](https://github.com/BayajidAlam/r-queue)        |
 
 
