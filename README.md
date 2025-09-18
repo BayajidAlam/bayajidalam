@@ -24,7 +24,7 @@
 
 | Name       | Description                                              |  Project Link             |
 |------------|----------------------------------------------------------|------------------|
-| GenTrandz  | GenTrandz is a scalable eCommerce platform built with Next.js and Node.js, supporting multiple roles (Customer, Seller, Admin etc).| [Github](https://github.com/BayajidAlam/GenTrandz)       |
+| VisionSync  | VisionSync is a scalable video streaming platform built with React (TypeScript), Node.js, and MongoDB. It supports video upload via pre-signed URLs, real-time video processing with FFmpeg (compression, multi-resolution conversion, chunking), MPEG-DASH streaming, and real-time status updates using Socket.IO. Infrastructure is managed with Pulumi and deployed on AWS using S3, ECS, Lambda, SQS, and CloudFront CDN| [Github](https://github.com/BayajidAlam/visionsync)       |
 | SimplyDone  | SimplyDone is a scalable To-Do app built with React.js (frontend) and Node.js (backend). Both are containerized with Docker and deployed on AWS EC2 instances with an Application Load Balancer (ALB) for high availability and fault tolerance. Pulumi is used as IaC            | [Github](https://github.com/BayajidAlam/simply-done)        |
 | R_Queue  | A distributed job queue system using Redis, designed to manage tasks across multiple worker nodes in a cloud environment. It supports job prioritization, failure handling, retries, result storage, and monitoring. | [Github](https://github.com/BayajidAlam/r-queue)        |
 
