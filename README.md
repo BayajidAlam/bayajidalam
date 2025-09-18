@@ -1,6 +1,11 @@
-<h1 align="center">Hi there my gorgeous friend </h1> 
-<h3 align='center'> I am <span>Bayajid Alam Joyel</span> An enthusiastic Programmer from Cumilla, Bangladesh</h3>
-<p align='left'>Welcome to my GitHub profile. I am an aspiring Full Stack Engineer with strong knowledge and a keen interest in software development and problem-solving. I am focused to learn new technologies every day, solve real-life problems, and make a positive impact on the world.</p>
+<h1 align="center">Hi there, fellow developer! 👋</h1> 
+<h3 align='center'>I'm <span>Bayajid Alam</span> • Full Stack Engineer & Cloud Architect from Bangladesh 🇧🇩</h3>
+
+<p align='left'>
+Welcome to my GitHub! I'm a passionate Full Stack Engineer who loves building scalable, production-ready applications. I specialize in creating robust cloud-native solutions using modern technologies like React, TypeScript, Node.js, and AWS infrastructure.
+
+My focus is on solving real-world problems through clean code, scalable architecture, and cost-effective cloud solutions. From video streaming platforms to containerized microservices, I enjoy tackling complex technical challenges and building systems that scale.
+</p>
 
 ## Connect with me
 ![Portfolio Badge](https://img.shields.io/badge/Portfolio-%2337BEFF?style=for-the-badge&logo=%2337BEFF&link=https://bayajidalamjuyel.vercel.app) &nbsp; ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbayajid-alam-joyel) &nbsp; ![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=bayajidalam2001%40gmail.com) &nbsp; ![Twitter Badge](https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fbayajid_alam) &nbsp; ![Dev.to Badge](https://img.shields.io/badge/Dev-%230A0A0A?style=for-the-badge&logo=devdotto&link=https%3A%2F%2Fdev.to%2Fbayajid_alam)
