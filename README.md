@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, fellow developer! 👋</h1> 
 
-<h3 align="center">I'm <span>Bayajid Alam</span> • Full Stack Engineer, Cloud Architect & DevOps Engineer from Bangladesh 🇧🇩</h3>
+<h3 align="center">I'm <span>Bayajid Alam</span> • Full Stack Engineer, Cloud Architect & DevOps Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="left">
 Welcome to my GitHub! I’m a passionate Full Stack Engineer and DevOps professional, building scalable, production-ready applications and cloud-native solutions. My expertise spans <strong>React, TypeScript, Node.js, Kubernetes, Docker, AWS, CI/CD, and microservices architecture</strong>.
