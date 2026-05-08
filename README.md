@@ -58,7 +58,6 @@ I enjoy solving complex engineering challenges, optimizing infrastructure costs,
 | Jatra      | Fault-tolerant train ticketing system solving Bangladesh Railway's Eid traffic chaos. Built with microservices, K8s, Redis & OpenTelemetry. | [Github](https://github.com/BayajidAlam/Jatra)       |
 | VisionSync  | Scalable cloud-native video streaming platform built on AWS. Features adaptive DASH/HLS streaming, real-time processing with ECS Fargate (70% Spot), MongoDB replica set, Redis caching, Socket.IO updates, and full IaC automation with Pulumi & Ansible. Cost-optimized multi-AZ architecture with CloudFront CDN.| [Github](https://github.com/BayajidAlam/visionsync)       |
 | SimplyDone  | SimplyDone is a scalable To-Do app built with React.js (frontend) and Node.js (backend). Both are containerized with Docker and deployed on AWS EC2 instances with an Application Load Balancer (ALB) for high availability and fault tolerance. Pulumi is used as IaC            | [Github](https://github.com/BayajidAlam/simply-done)        |
-| R_Queue  | A distributed job queue system using Redis, designed to manage tasks across multiple worker nodes in a cloud environment. It supports job prioritization, failure handling, retries, result storage, and monitoring. | [Github](https://github.com/BayajidAlam/r-queue)        |
 
 
 
