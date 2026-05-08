@@ -1,12 +1,34 @@
-<h1 align="center">Hi there, fellow developer! 👋</h1> 
+<h1 align="center">Hey there! 👋 I'm Bayajid Alam</h1>
 
-<h3 align="center">I'm <span>Bayajid Alam</span> • Full Stack Engineer, Cloud Architect & DevOps Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">
+Full Stack Engineer • Cloud & DevOps Enthusiast • Distributed Systems Builder
+</h3>
 
 <p align="left">
-Welcome to my GitHub! I’m a passionate Full Stack Engineer and DevOps professional, building scalable, production-ready applications and cloud-native solutions. My expertise spans <strong>React, TypeScript, Node.js, Kubernetes, Docker, AWS, CI/CD, and microservices architecture</strong>.
+I’m a software engineer from Bangladesh passionate about building scalable applications, cloud-native infrastructure, and high-performance distributed systems.
 
-I focus on solving real-world problems with clean code, scalable design, and cost-efficient cloud solutions. From video streaming platforms to containerized microservices, I enjoy tackling complex technical challenges and building systems that scale.
+My core expertise includes <strong>Go, TypeScript, Node.js, React, Kubernetes, Docker, AWS, CI/CD pipelines, microservices architecture, observability, and cloud automation</strong>. I enjoy designing systems that are reliable, cost-efficient, and production-ready.
+
+Over the years, I’ve worked on projects ranging from <strong>AI-powered RAG platforms</strong> and <strong>fault-tolerant ticketing systems</strong> to <strong>adaptive video streaming infrastructure</strong> and <strong>intelligent Kubernetes autoscaling solutions</strong>.
+
+🚀 A few things I love building:
+
+<ul>
+  <li><strong>Cloud-native platforms</strong> powered by Kubernetes, Docker, and AWS</li>
+
+  <li><strong>Scalable backend systems</strong> with microservices and event-driven architecture</li>
+
+  <li><strong>AI-integrated applications</strong> using LLMs, RAG pipelines, and real-time streaming</li>
+
+  <li><strong>DevOps & automation workflows</strong> with Infrastructure as Code, CI/CD, and observability tooling</li>
+
+  <li><strong>Performance-focused distributed systems</strong> designed for scalability, resiliency, and real-world production workloads</li>
+</ul>
+
+I enjoy solving complex engineering challenges, optimizing infrastructure costs, and building systems that can reliably scale to serve thousands of users.
+
 </p>
+
 
 
 ## Connect with me
@@ -29,9 +51,9 @@ I focus on solving real-world problems with clean code, scalable design, and cos
 
 ### Projects
 
-| Name       | Description                                              |  Project Link             |
-|------------|----------------------------------------------------------|------------------|
-| NodeFleet  | AWS K3s autoscaler reducing costs by 40-50% via Lambda, Prometheus metrics, and intelligent EC2 scaling with spot instances, Multi-AZ support, and predictive scaling. | [Github](https://github.com/BayajidAlam/node-fleet)       |
+| Name       | Description                                              |  Project Link             | Video Link |
+|------------|----------------------------------------------------------|------------------|----------------|
+| NodeFleet  | AWS K3s autoscaler reducing costs by 40-50% via Lambda, Prometheus metrics, and intelligent EC2 scaling with spot instances, Multi-AZ support, and predictive scaling. | [Github](https://github.com/BayajidAlam/node-fleet)       |  [Video](https://drive.google.com/file/d/1SE_G6j74erJpfLVZl6U5KwJptHzb2QGz/view?usp=sharing) |
 | Askly  | An intelligent open source RAG engine powered by Google Gemini - chat with your PDFs, stream AI answers word-by-word via SSE, and fall back to live web search automatically. | [Github](https://github.com/BayajidAlam/askly)       |
 | Jatra      | Fault-tolerant train ticketing system solving Bangladesh Railway's Eid traffic chaos. Built with microservices, K8s, Redis & OpenTelemetry. | [Github](https://github.com/BayajidAlam/Jatra)       |
 | VisionSync  | Scalable cloud-native video streaming platform built on AWS. Features adaptive DASH/HLS streaming, real-time processing with ECS Fargate (70% Spot), MongoDB replica set, Redis caching, Socket.IO updates, and full IaC automation with Pulumi & Ansible. Cost-optimized multi-AZ architecture with CloudFront CDN.| [Github](https://github.com/BayajidAlam/visionsync)       |
