@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Bayajid Alam</h1>
 
 <h3 align="center">
-Full Stack Engineer • Cloud & DevOps Enthusiast • Distributed Systems Builder
+Forward Deployed Engineer • Cloud & DevOps Enthusiast • Distributed Systems Builder
 </h3>
 
 <p align="left">
