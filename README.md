@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Bayajid Alam</h1>
 
 <h3 align="center">
-Forward Deployed Engineer • Cloud & DevOps Enthusiast • Distributed Systems Builder
+Forward Deployed Engineer • Cloud & DevOps • Distributed Systems Builder
 </h3>
 
 <p align="left">
-I’m a software engineer from Bangladesh passionate about building scalable applications, cloud-native infrastructure, and high-performance distributed systems.
+I’m a Forward Deployed Engineer from Bangladesh passionate about building scalable applications, cloud-native infrastructure, and high-performance distributed systems.
 
 My core expertise includes <strong>Go, TypeScript, Node.js, React, Kubernetes, Docker, AWS, CI/CD pipelines, microservices architecture, observability, and cloud automation</strong>. I enjoy designing systems that are reliable, cost-efficient, and production-ready.
 
